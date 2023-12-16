@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ownnyan or Shawn
+- 👋 Hi, I’m @Sholjr or Shawn
 - 👀 I’m interested in ... Photography, Programming, and survival games
 - 🌱 I’m currently learning ... HTML, CSS, and Javascript on 'The Odin Project'
 
